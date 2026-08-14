@@ -39,7 +39,7 @@ I build **end-to-end analytical systems** at the intersection of **finance, data
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 [India Credit Card Market Intelligence](https://github.com/thetanujupadhyay/india-credit-card-analysis)
+### 🏦 [India Credit Card Market Intelligence](https://github.com/thetanujupadhyay/india-credit-card-market-analysis)
 *Excel → Python ETL → PostgreSQL → Power BI*
 
 End-to-end pipeline on 5 years of RBI regulatory data across 66 issuers.
