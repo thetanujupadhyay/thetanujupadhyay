@@ -136,38 +136,6 @@ SQL-driven platform for identifying hidden retention risk across an organisation
 
 ---
 
-## Professional Timeline
-
-| Organisation | Role | Highlight |
-|---|---|---|
-| **The Moronss** (AI SaaS Startup) | Product Development Associate | Nationally shortlisted · Shark Tank India Season 4 |
-| **MedTourEasy** | Data Analyst Trainee | Power BI dashboards · Predictive modelling |
-| **Smart Bridge** | ML Engineer Intern | Machine learning implementations |
-| **Harvard HPAIR** | Delegate | Selected from a competitive application pool |
-| **Topmate** | Mentor | Ranked **Top 1%** on platform |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=thetanujupadhyay&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetanujupadhyay&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-</div>
-
----
-
-## Certifications
-
-🏅 &nbsp;**Google Advanced Data Analytics** Professional Certificate  
-🏅 &nbsp;**Google Business Intelligence** Professional Certificate  
-🏅 &nbsp;**JP Morgan Forage** — Quantitative Research Virtual Experience
-
----
-
 <div align="center">
 
 *Actively seeking **Data Analyst · Business Analyst · Product Analyst** roles*
